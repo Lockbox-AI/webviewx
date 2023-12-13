@@ -13,11 +13,11 @@ dependencies:
     sdk: flutter
   http: ^1.1.0
   path: ^1.8.0
-  pointer_interceptor: ^0.9.0+1
+  pointer_interceptor: ^0.10.0
   uuid: ^4.2.1
-  webview_flutter: ^2.0.13
+  webview_flutter: ^4.4.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  lint: ^1.6.0
+  lint: ^2.2.0
